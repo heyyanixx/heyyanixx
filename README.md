@@ -4,13 +4,13 @@
   (It appears only as "github.com/heyyanixx" here and in assets/id-dashboard.svg.)
 -->
 
-![Heyy, I'm Anish (HEYYANIXX): BCA (AI) student, video editor, AI visual creator, learning C](./assets/hero.svg?v=1)
+![Heyy, I'm Anish (HEYYANIXX): BCA (AI) student, video editor, AI visual creator, learning C](./assets/hero.svg?v=2)
 
 ![About me: video editing, AI visuals, learning C, building in public. Interests: gaming, video editing, AI art](./assets/about-life.svg?v=1)
 
 ![My stack: learning C, Git & GitHub, HTML/CSS. Creative: video editing, motion graphics, AI visuals](./assets/stack.svg?v=1)
 
-![Student ID: Anish, BCA (AI), Sem 1, 2026](./assets/id-dashboard.svg?v=1)
+![Student ID: Anish, BCA (AI), Sem 1, 2026](./assets/id-dashboard.svg?v=2)
 
 ## Projects
 
